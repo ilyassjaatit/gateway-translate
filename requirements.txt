@@ -1,0 +1,7 @@
+openai
+starlette
+uvicorn[standard]
+fastapi
+
+# Test
+pytest
