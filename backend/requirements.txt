@@ -1,0 +1,10 @@
+openai
+starlette
+uvicorn[standard]
+fastapi
+
+# databasa
+sqlalchemy
+
+# Test
+pytest
